@@ -1,0 +1,6 @@
+run:
+  command: odoo --test-enable=0 --without-demo=all
+  test_enable: false
+  demo: false
+  tests:
+    enable: false
