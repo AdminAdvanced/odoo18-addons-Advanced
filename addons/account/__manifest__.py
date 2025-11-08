@@ -87,7 +87,7 @@ You could use this simplified accounting in case you work with an (external) acc
         'wizard/account_merge_wizard_views.xml',
     ],
     'demo': [
-        'demo/account_demo.xml',
+        #'demo/account_demo.xml',
     ],
     'installable': True,
     'application': True,

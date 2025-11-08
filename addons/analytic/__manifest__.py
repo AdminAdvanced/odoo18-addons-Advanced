@@ -24,7 +24,7 @@ that have no counterpart in the general financial accounts.
         'data/analytic_data.xml'
     ],
     'demo': [
-        'data/analytic_account_demo.xml'
+        #'data/analytic_account_demo.xml'
     ],
     'assets': {
         'web.assets_backend': [

@@ -36,7 +36,7 @@
         'wizard/service_wizard.xml',
     ],
     'demo': [
-        'demo/account_peppol_demo.xml',
+        #'demo/account_peppol_demo.xml',
     ],
     'post_init_hook': '_account_peppol_post_init',
     'license': 'LGPL-3',
