@@ -1,8 +1,6 @@
-tests:
-  enable: false
-
-demo:
-  enable: false
-
 run:
-  command: odoo --test-enable=0 --without-demo=all
+  command: odoo --test-enable=0 --without-demo=all --stop-after-init
+  test_enable: false
+  demo: false
+  tests:
+    enable: false
